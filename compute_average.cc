@@ -11,8 +11,8 @@
  *           and displays the average to the console.
  */
 
-#include <iostream>		// Include the iostream library which is needed to support the console input and output
-using namespace std;  	// Use the standard namespace in order to avoid naming conflicts
+#include <iostream>  // Include the iostream library which is needed to support the console input and output
+using namespace std;  // Use the standard namespace in order to avoid naming conflicts
 
 // The main method that drives the program
 int main() {  
