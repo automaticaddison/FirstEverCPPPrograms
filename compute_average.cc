@@ -6,7 +6,7 @@
  *  
  *  @brief	    Computes the average of three numbers
  *
- *  Purpose: This is a program reads three separate numbers entered by the
+ *  Purpose: This program reads three separate numbers entered by the
  *           user. It then calculates the average of these three numbers 
  *           and displays the average to the console.
  *****************************************************************************/
