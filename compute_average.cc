@@ -4,7 +4,7 @@
  *  @date           7/7/2018  
  *  @version        2.0 
  *  
- *  @brief	        Computes the average of three numbers
+ *  @brief	    Computes the average of three numbers
  *
  *  Purpose: This is a program reads three separate numbers entered by the
  *           user. It then calculates the average of these three numbers 
