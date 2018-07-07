@@ -1,26 +1,26 @@
-/** 
- *  @file    compute_average.cc
- *  @author  Addison Sears-Collins
- *  @date    7/4/2018  
- *  @version 1.0 
+/*******************************************************************************
+ *  @file           compute_average.cc
+ *  @author         Addison Sears-Collins
+ *  @date           7/7/2018  
+ *  @version        2.0 
  *  
- *  @brief Computes the average of three numbers
+ *  @brief	        Computes the average of three numbers
  *
  *  Purpose: This is a program reads three separate numbers entered by the
  *           user. It then calculates the average of these three numbers 
  *           and displays the average to the console.
- */
+ ******************************************************************************/
+// Include iostream library to support the console input and output
+#include <iostream> 
 
-#include <iostream>  // Include the iostream library which is needed to support the console input and output
-using namespace std;  // Use the standard namespace in order to avoid naming conflicts
+// Use the standard namespace to avoid naming conflicts
+using namespace std;  
 
 // The main method that drives the program
 int main() {  
 
 	// Prompt the user to enter three numbers
-	double number1;
-	double number2;
-	double number3;
+	double number1, number2, number3;
 	cout << "Enter three numbers separated by spaces: " << endl;
 	cin >> number1 >> number2 >> number3;
 	
@@ -33,5 +33,4 @@ int main() {
 		
 	// Exit the program
 	return 0;
-
 }
