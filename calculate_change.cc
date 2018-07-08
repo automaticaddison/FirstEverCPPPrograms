@@ -5,7 +5,7 @@
  *  @version        1.0 
  *  
  *  @brief	    Converts an amount into dollar bills, quarters, dimes, nickels,
- *              and pennies             
+ *                  and pennies             
  *  Purpose: This program reads in a given amount of money and converts
  *           it into smaller monetary units: dollar bills, quarters, dimes,
  *           nickels, and pennies.
