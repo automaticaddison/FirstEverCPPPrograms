@@ -12,3 +12,9 @@ File 2:    calculate_change.cc
  * @date    7/8/2018  
  * @version 1.0
  * @brief Converts an amount into dollar bills, quarters, dimes, nickels, and pennies.
+ 
+ File 3:    wind_chill_calculator.cc
+ * @author  Addison Sears-Collins
+ * @date    7/9/2018  
+ * @version 1.0
+ * @brief Calculates the wind chill given a temperature and a wind speed.
