@@ -6,7 +6,7 @@
  *  
  *  @brief	    Demonstrates the different kind of primitive types in C++
  *
- *  Purpose: This program is a demonstration ofthe different kind 
+ *  Purpose: This program is a demonstration of the different kind 
  * 		of primitive types in C++
  *****************************************************************************/
 // Include iostream library to support the console input and output
